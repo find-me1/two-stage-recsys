@@ -1,0 +1,14 @@
+# data files
+data/
+models/
+# macOS files
+.DS_Store
+
+# Notebook and Python caches
+.ipynb_checkpoints/
+__pycache__/
+
+# Python virtual environments
+.venv/
+venv/
+env/
